@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Unity3D
 - 🌱 I’m currently learning Flutter
-- 👯 I’m looking to collaborate on Flutter
+- 👯 I’m looking to collaborate on Unity3D
 - 🤔 I’m looking for help with Dart
 - 💬 Ask me about Anything
 - 📫 How to reach me: [Email] mansoormana7@gmail.com
