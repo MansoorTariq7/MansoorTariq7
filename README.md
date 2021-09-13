@@ -9,4 +9,3 @@
 - 📫 How to reach me: [Email] mansoormana7@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have just started
--->
